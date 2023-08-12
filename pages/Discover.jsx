@@ -1,3 +1,13 @@
-const Discover = () => <div>Discover</div>;
+import React from 'react'
+import { Error, Loader, SongCard } from '../components'
+import { genres } from '../public/assets/constants'
 
-export default Discover;
+const Discover = () => {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default Discover
